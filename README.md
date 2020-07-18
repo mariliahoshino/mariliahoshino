@@ -7,7 +7,7 @@ https://www.linkedin.com/in/mariliahoshino/
 Personal page <br> 
 https://mariliahoshino.wixsite.com/cvitae
 
-Instagram <br>
+Instagram  <img src = "https://static.wixstatic.com/media/d7ffe259c9e54f59837481b3dd0130eb.png/v1/fill/w_70,h_70,al_c,q_85,usm_0.66_1.00_0.01/d7ffe259c9e54f59837481b3dd0130eb.webp">  <br>
 https://www.instagram.com/mari.zeniti/
 
 Facebook <br>
