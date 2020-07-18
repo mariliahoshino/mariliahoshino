@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-
-https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png
+.
+<img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png">
 My profile in LinkedIn <br>
 https://www.linkedin.com/in/mariliahoshino/
 
