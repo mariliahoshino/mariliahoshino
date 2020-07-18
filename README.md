@@ -1,10 +1,10 @@
 ### Hi there 👋
-.
-<img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png">
-My profile in LinkedIn <br>
+
+My profile in <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png">
+  <br>
 https://www.linkedin.com/in/mariliahoshino/
 
-Personal page <br>
+Personal page <br> 
 https://mariliahoshino.wixsite.com/cvitae
 
 Instagram <br>
