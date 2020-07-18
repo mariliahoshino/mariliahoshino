@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My profile in LinkedIn <br>
+https://www.linkedin.com/in/mariliahoshino/
+
+Personal page <br>
+https://mariliahoshino.wixsite.com/cvitae
+
+Instagram <br>
+https://www.instagram.com/mari.zeniti/
+
+Facebook <br>
+https://www.facebook.com/mari.zeniti
+
 <!--
 **mariliahoshino/mariliahoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
