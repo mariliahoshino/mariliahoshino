@@ -1,14 +1,13 @@
-### Hi there 👋
 
 Post graduation Quality of Software Engineering <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsCxb0ydeAdPDBOctFl_S05UgcgBt14sfnRA&usqp=CAU">
 
 Bachelor Electric Engineering UMC
 
-Electronic Technical SENAI
+Electronic Technical SENAI - Anchieta
 
 Mechatronics Technical ETEC Presidente Vargas 
 
-Maintenance Electrical SENAI 
+Maintenance Electrical SENAI - Suzano
 
 My profile in <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png">
   <br>
@@ -24,6 +23,9 @@ Facebook <br>
 https://www.facebook.com/mari.zeniti
 
 <!--
+
+### Hi there 👋
+
 **mariliahoshino/mariliahoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
