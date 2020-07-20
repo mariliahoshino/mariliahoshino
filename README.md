@@ -1,7 +1,7 @@
 
 Post graduation Quality of Software Engineering <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senac.png?raw=true">
 
-Bachelor Electric Engineering UMC  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png">
+Bachelor Electric Engineering UMC  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true">
 
 Electronic Technical SENAI - Anchieta  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true">
 
