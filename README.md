@@ -1,5 +1,5 @@
 
-Post graduation Quality of Software Engineering <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsCxb0ydeAdPDBOctFl_S05UgcgBt14sfnRA&usqp=CAU">
+Post graduation Quality of Software Engineering <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senac.png?raw=true">
 
 Bachelor Electric Engineering UMC
 
