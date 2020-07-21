@@ -1,9 +1,9 @@
 
 Post graduation Quality of Software Engineering <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senac.png?raw=true" height="50" widht="400">
 
-Bachelor Electric Engineering UMC  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true" height="100" widht="400">
+Bachelor Electric Engineering UMC  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true" height="50" widht="400">
 
-Electronic Technical SENAI - Anchieta  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="100" widht="400">
+Electronic Technical SENAI - Anchieta  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400">
 
 Mechatronics Technical ETEC Presidente Vargas 
 
