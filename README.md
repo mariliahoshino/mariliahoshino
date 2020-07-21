@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 ### My Degree
 
 <a href="https://www.sp.senac.br/">   <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="50" widht="400" > </a> &nbsp;Post graduation Quality of Software Engineering 
@@ -39,3 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</body>
+</html>
