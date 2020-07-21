@@ -5,7 +5,7 @@ Bachelor Electric Engineering UMC  <img src="https://github.com/mariliahoshino/m
 
 Electronic Technical SENAI - Anchieta  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400">
 
-Mechatronics Technical ETEC Presidente Vargas <img src="ttps://github.com/mariliahoshino/mariliahoshino/blob/master/logo_etec.png?raw=true" height="50" widht="400">
+Mechatronics Technical ETEC Presidente Vargas <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_etec.png?raw=true" height="50" widht="400">
 
 Maintenance Electrical SENAI - Suzano  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400">
 
