@@ -1,13 +1,13 @@
 
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senac.png?raw=true" height="50" widht="400"> &nbsp; Post graduation Quality of Software Engineering 
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor Electric Engineering UMC  
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor Electric Engineering UMC  
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"> &nbsp;&nbsp; Electronic Technical SENAI - Anchieta  
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp; Electronic Technical SENAI - Anchieta  
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_etec.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics Technical ETEC Presidente Vargas 
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_etec.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics Technical ETEC Presidente Vargas 
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"> &nbsp;&nbsp; Maintenance Electrical SENAI - Suzano  
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp; Maintenance Electrical SENAI - Suzano  
 
 My profile in <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png">
   <br>
