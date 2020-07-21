@@ -11,7 +11,6 @@
 <a href="https://eletronica.sp.senai.br/"> <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senai.png?raw=true" height="50" widht="400"></a>  &nbsp;&nbsp;&nbsp; Electronic Technical SENAI - Anchieta  
 
 <a href="https://www.cps.sp.gov.br/tag/etec-presidente-vargas/">  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_etec.png?raw=true" height="50" widht="400"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics Technical ETEC Presidente Vargas 
-
 <a href="https://suzano.sp.senai.br/"> <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senai.png?raw=true" height="50" widht="400"></a>  &nbsp;&nbsp;&nbsp; Maintenance Electrical SENAI - Suzano  
 
 ### My profile in 
