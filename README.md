@@ -1,5 +1,5 @@
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senac.png?raw=true" height="50" widht="400" href="https://www.sp.senac.br/"> &nbsp;Post graduation Quality of Software Engineering 
+<a href="https://www.sp.senac.br/">   <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senac.png?raw=true" height="50" widht="400" > </a> &nbsp;Post graduation Quality of Software Engineering 
 
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor Electric Engineering UMC  
 
