@@ -1,13 +1,13 @@
 
 <a href="https://www.sp.senac.br/">   <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senac.png?raw=true" height="50" widht="400" > </a> &nbsp;Post graduation Quality of Software Engineering 
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor Electric Engineering UMC  
+<a href="http://www.umc.br/">    <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true" height="50" widht="400">  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor Electric Engineering UMC  
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp; Electronic Technical SENAI - Anchieta  
+<a href="https://eletronica.sp.senai.br/"> <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp; Electronic Technical SENAI - Anchieta  </a>
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_etec.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics Technical ETEC Presidente Vargas 
+<a href="https://www.cps.sp.gov.br/tag/etec-presidente-vargas/">  <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_etec.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics Technical ETEC Presidente Vargas </a>
 
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp; Maintenance Electrical SENAI - Suzano  
+<a href="https://suzano.sp.senai.br/"> <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"> &nbsp;&nbsp;&nbsp; Maintenance Electrical SENAI - Suzano  </a>
 
 My profile in <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png">
   <br>
