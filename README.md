@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/mariliahoshino/"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_linkedin.png?raw=true" height="50" widht="400"></a>
 
-<a href="https://mariliahoshino.wixsite.com/cvitae/"> Personal page <br> <img src ="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_site.png?raw=true"></a>
+<a href="https://mariliahoshino.wixsite.com/cvitae/"> Personal page <br> <img src ="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_site.png?raw=true" height="50" widht="400"></a>
 
 <a href="https://www.instagram.com/mari.zeniti/"><img src = "https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_instagram.png?raw=true"  height="50" widht="400"></a>  <br>
 
