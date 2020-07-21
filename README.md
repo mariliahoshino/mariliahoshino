@@ -12,18 +12,15 @@
 ### My profile in 
 
 
-<a href="https://www.linkedin.com/in/mariliahoshino/"> <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png" height="50" widht="400"></a>
-
-https://www.linkedin.com/in/mariliahoshino/
+<a href="https://www.linkedin.com/in/mariliahoshino/"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_linkedin.png?raw=true" height="50" widht="400"></a>
 
 Personal page <br> 
 https://mariliahoshino.wixsite.com/cvitae
 
-Instagram  <img src = "https://static.wixstatic.com/media/d7ffe259c9e54f59837481b3dd0130eb.png/v1/fill/w_70,h_70,al_c,q_85,usm_0.66_1.00_0.01/d7ffe259c9e54f59837481b3dd0130eb.webp">  <br>
-https://www.instagram.com/mari.zeniti/
+<a href="https://www.instagram.com/mari.zeniti/"><img src = "https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_instagram.png?raw=true"  height="50" widht="400"></a>  <br>
 
-Facebook <br>
-https://www.facebook.com/mari.zeniti
+<a href="https://www.facebook.com/mari.zeniti"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_facebook.png?raw=true"   height="50" widht="400"></a>
+
 
 <!--
 
