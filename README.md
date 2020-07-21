@@ -1,4 +1,4 @@
-
+### My Degree
 <a href="https://www.sp.senac.br/">   <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senac.png?raw=true" height="50" widht="400" > </a> &nbsp;Post graduation Quality of Software Engineering 
 
 <a href="http://www.umc.br/">    <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_umc.png?raw=true" height="50" widht="400">  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor Electric Engineering UMC  
@@ -9,8 +9,11 @@
 
 <a href="https://suzano.sp.senai.br/"> <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/logo_senai.png?raw=true" height="50" widht="400"></a>  &nbsp;&nbsp;&nbsp; Maintenance Electrical SENAI - Suzano  
 
-My profile in <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png">
-  <br>
+### My profile in 
+
+
+<a href="https://www.linkedin.com/in/mariliahoshino/"> <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png" height="50" widht="400"></a>
+
 https://www.linkedin.com/in/mariliahoshino/
 
 Personal page <br> 
