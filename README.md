@@ -22,7 +22,6 @@
 <a href="https://www.facebook.com/mari.zeniti"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_facebook.png?raw=true"   height="50" widht="400"></a>
 
 
-<a href="javascript:alert('Hello World!');">Execute JavaScript</a>
 
 <!--
 
