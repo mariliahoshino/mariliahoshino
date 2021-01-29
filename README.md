@@ -2,6 +2,8 @@
 <html>
 <body>
 
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/title.png?raw=true" height="300" widht="600" >
+
 ### My Degree
 
 <a href="https://www.sp.senac.br/">   <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="50" widht="400" > </a> &nbsp;Post graduation Quality of Software Engineering 
