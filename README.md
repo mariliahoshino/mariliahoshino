@@ -4,14 +4,12 @@
 
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/title.png?raw=true" height="300" widht="600" >
 
-<FONT FACE=Arial COLOR="#FF3385">Technology Skills</FONT><br>
+###Technology Skills<br>
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/C++logo.png?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/JAVA%20logo.png?raw=true" height="50" widht="50" > <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/assembly.png?raw=true" height="50" widht="50" >
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/Python%20logo.png?raw=true" height="50" widht="50" >
-<html>
-<FONT FACE=Times COLOR="#0000AA">Fonte Times azul</FONT>
-</html>
 
-Boards <br>
+
+### Boards <br>
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/arduino_13_esp32_02_logo.jpg?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/microchiptechnologyinc_22954109574.jpg?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/Atmel_logo.svg.png?raw=true" height="50" widht="50" >
 
 ### My Degree
