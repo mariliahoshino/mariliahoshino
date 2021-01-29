@@ -4,6 +4,13 @@
 
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/title.png?raw=true" height="300" widht="600" >
 
+Technology Skills<br>
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/C++logo.png?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/JAVA%20logo.png?raw=true" height="50" widht="50" > <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/assembly.png?raw=true" height="50" widht="50" >
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/Python%20logo.png?raw=true" height="50" widht="50" >
+
+Boards <br>
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/arduino_13_esp32_02_logo.jpg?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/microchiptechnologyinc_22954109574.jpg?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/Atmel_logo.svg.png?raw=true" height="50" widht="50" >
+
 ### My Degree
 
 <a href="https://www.sp.senac.br/">   <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="50" widht="400" > </a> &nbsp;Post graduation Quality of Software Engineering 
