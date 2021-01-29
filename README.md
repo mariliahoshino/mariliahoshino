@@ -9,7 +9,7 @@
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/Python%20logo.png?raw=true" height="50" widht="50" >
 
 
-### Boards <br>
+### Boards Skills <br>
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/arduino_13_esp32_02_logo.jpg?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/microchiptechnologyinc_22954109574.jpg?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Board/Atmel_logo.svg.png?raw=true" height="50" widht="50" >
 
 ### My Degree
