@@ -4,7 +4,7 @@
 
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/title.png?raw=true" height="300" widht="600" >
 
-###Technology Skills<br>
+### Technology Skills<br>
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/C++logo.png?raw=true" height="50" widht="50" ><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/JAVA%20logo.png?raw=true" height="50" widht="50" > <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/assembly.png?raw=true" height="50" widht="50" >
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/Skills/Python%20logo.png?raw=true" height="50" widht="50" >
 
